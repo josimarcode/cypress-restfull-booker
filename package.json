@@ -1,0 +1,23 @@
+{
+  "name": "cypress-restfull-booker",
+  "version": "1.0.0",
+  "description": "API Framework Cypress RestFul Booker Yape",
+  "main": "index.js",
+  "scripts": {
+    
+    "cypress:open": "cypress open",
+    "test": "node_modules\\.bin\\cypress run --headed --browser chrome",
+    "runtests": "npm run test -- "
+
+  },
+  "keywords": [
+    "api",
+    "automation",
+    "cypress"
+  ],
+  "author": "Josimar Leon Canto",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.9.0"
+  }
+}
