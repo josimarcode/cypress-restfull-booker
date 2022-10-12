@@ -1,0 +1,8 @@
+{
+    "projectId": "f565yz",
+    "chromeWebSecurity": false,
+  
+    "env": {
+      "URL": "https://restful-booker.herokuapp.com/"
+    }
+}

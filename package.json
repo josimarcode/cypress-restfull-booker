@@ -1,19 +1,15 @@
 {
   "name": "cypress-restfull-booker",
   "version": "1.0.0",
-  "description": "API Framework Cypress RestFul Booker Yape",
+  "description": "API Automation RestFul Booker",
   "main": "index.js",
   "scripts": {
-    
-    "cypress:open": "cypress open",
-    "test": "node_modules\\.bin\\cypress run --headed --browser chrome",
-    "runtests": "npm run test -- "
-
+    "test": "test"
   },
   "keywords": [
-    "api",
-    "automation",
-    "cypress"
+    "cypress",
+    "js",
+    "api"
   ],
   "author": "Josimar Leon Canto",
   "license": "ISC",
